@@ -16,7 +16,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [ ] whichkey how to use, the theory
 - [ ] code jump back?
 - [ ] clipboard
-- [ ] cmdline mv select
+- [ ] cmdline mv select by j/k
 - [ ] can mason install all the needed language server in config?
 - [ ] *learn* spectre
 - [ ] conflict keymap
