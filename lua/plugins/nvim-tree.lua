@@ -2,7 +2,7 @@ return {
   {
     "kyazdani42/nvim-tree.lua",
     opts = {
-      -- 不显示 git 状态图标
+      -- 显示 git 状态图标
       git = {
         enable = true,
       },

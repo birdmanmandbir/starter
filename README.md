@@ -15,4 +15,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [ ] better key bindings
 - [ ] whichkey how to use, the theory
 - [ ] code jump back?
+- [ ] clipboard
+- [ ] cmdline mv select
+- [ ] can mason install all the needed language server in config?
 
