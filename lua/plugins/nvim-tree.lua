@@ -63,15 +63,17 @@ return {
       },
     },
   },
+  -- 不使用neo-tree
   {
     "nvim-neo-tree/neo-tree.nvim",
-    enable = false,
-    opts = function()
-      return {}
-    end,
-    init = function() end,
-    keys = function()
-      return {}
-    end,
+    enabled = false,
+    -- opts = function()
+    --   return {}
+    -- end,
+    -- -- 避免自动开启
+    -- init = function() end,
+    -- keys = function()
+    --   return {}
+    -- end,
   },
 }

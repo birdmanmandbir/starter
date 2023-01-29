@@ -9,7 +9,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [x] fd-find
 - [x] wsl(no windows env)
 - [ ] autosave
-- [ ] lazygit
+- [ ] *learn* lazygit
 - [ ] markdown autocomplete
 - [ ] why no auto format lua in the company
 - [ ] better key bindings
@@ -18,4 +18,6 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [ ] clipboard
 - [ ] cmdline mv select
 - [ ] can mason install all the needed language server in config?
-
+- [ ] *learn* spectre
+- [ ] conflict keymap
+- [ ] checkhealth
