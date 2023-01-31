@@ -9,10 +9,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [x] fd-find
 - [x] wsl(no windows env)
 - [x] clipboard
+- [ ] keymap better for bufferline close, like close other buffers
 - [ ] dashboard project
-- [ ] conflict keymap
-- [ ] checkhealth
-- [ ] collapse block
 - [ ] braket jump(juejin book last chapter?)
 - [ ] fix wierd paste position
 - [ ] whichkey config
@@ -28,6 +26,10 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [ ] autosave
 - [ ] fast jump like vimium
 - [ ] <C-e> can be recent file? like jetbrains IDE
+- [ ] telescope find file should exit insert mode
+- [ ] conflict keymap
+- [ ] checkhealth
+- [ ] collapse block
 
 ## TOLearn
 - [ ] *learn* lazygit
