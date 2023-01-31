@@ -8,22 +8,27 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [x] rigrep
 - [x] fd-find
 - [x] wsl(no windows env)
-- [ ] clipboard
-- [ ] autosave
+- [x] clipboard
 - [ ] conflict keymap
 - [ ] checkhealth
 - [ ] collapse block
-- [ ] braket jump
+- [ ] braket jump(juejin book last chapter?)
 - [ ] dashboard project
-- [ ] fix wierd insert position
+- [ ] fix wierd paste position
 - [ ] whichkey config
-
 - [ ] markdown autocomplete
-- [ ] why no auto format lua in the company
+- [ ] *company*: why no auto format lua in the 
 - [ ] better key bindings
-- [ ] whichkey how to use, the theory
-- [ ] code jump back?
 - [ ] cmdline mv select by j/k
 - [ ] can mason install all the needed language server in config?
+- [ ] push to github from wsl
+- [ ] *company*: mason/nvim-lspconfig not install vscode-json-languageserver
+- [ ] clipboard wsl -> windows
+- [ ] code jump back?
+- [ ] autosave
+- [ ] fast jump like vimium
+
+## TOLearn
 - [ ] *learn* lazygit
 - [ ] *learn* spectre
+- [ ] whichkey how to use, the theory
