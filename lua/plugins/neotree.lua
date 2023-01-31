@@ -6,5 +6,16 @@ return {
     keys = {
       { "<A-m>", "<leader>fe", desc = "Toggle NeoTree", remap = true },
     },
+    opts = {
+      window = {
+        mappings = {
+          ["o"] = "open_tabnew",
+        },
+      },
+      filesystem = {
+        bind_to_cwd = false,
+        follow_current_file = true,
+      },
+    },
   },
 }
