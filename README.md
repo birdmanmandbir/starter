@@ -27,6 +27,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [ ] code jump back?
 - [ ] autosave
 - [ ] fast jump like vimium
+- [ ] <C-e> can be recent file? like jetbrains IDE
 
 ## TOLearn
 - [ ] *learn* lazygit
