@@ -14,6 +14,7 @@ end
 
 local opt = { noremap = true, silent = true }
 local opts_remap = { noremap = false, silent = true }
+-- NvimTree
 map("n", "<A-m>", ":NvimTreeToggle<CR>", { desc = "Open file tree" })
 -- Telescope
 -- 查找文件
@@ -26,3 +27,5 @@ map("v", ">", ">gv", { desc = "Indent forward" })
 -- 命令行下 Ctrl+j/k  上一个下一个
 map("c", "<C-j>", "<C-n>", opts_remap)
 map("c", "<C-k>", "<C-p>", opts_remap)
+-- Close Other Windows
+map("n", "<leader>wo", "<C-w>o", { desc = "W Close Other" })
