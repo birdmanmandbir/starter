@@ -9,11 +9,11 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - [x] fd-find
 - [x] wsl(no windows env)
 - [x] clipboard
+- [ ] dashboard project
 - [ ] conflict keymap
 - [ ] checkhealth
 - [ ] collapse block
 - [ ] braket jump(juejin book last chapter?)
-- [ ] dashboard project
 - [ ] fix wierd paste position
 - [ ] whichkey config
 - [ ] markdown autocomplete

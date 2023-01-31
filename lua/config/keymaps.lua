@@ -14,8 +14,6 @@ end
 
 local opt = { noremap = true, silent = true }
 local opts_remap = { noremap = false, silent = true }
--- NvimTree
-map("n", "<A-m>", ":NvimTreeToggle<CR>", { desc = "Open file tree" })
 -- Telescope
 -- 查找文件
 map("n", "<C-p>", ":Telescope find_files<CR>", { desc = "Find files" })

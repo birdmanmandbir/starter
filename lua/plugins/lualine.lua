@@ -3,10 +3,9 @@ return {
     "nvim-lualine/lualine.nvim",
     opts = function(_, opts)
       opts.extensions = {
-        "nvim-tree",
+        "neo-tree",
         "toggleterm",
       }
-      print(opts.extensions)
     end,
   },
 }
